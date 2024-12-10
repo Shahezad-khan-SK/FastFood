@@ -816,11 +816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
       "projectName": "FastFood.Models",
-      "projectPath": "D:\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood.Models\\FastFood.Models.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\FastFood\\FastFood.Models\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

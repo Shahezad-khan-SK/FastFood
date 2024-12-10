@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FastFood.Models
 {
-    internal class ApplicationUser :IdentityUser
+    public class ApplicationUser :IdentityUser
     {
         public string Name { get; set; }
         public string City { get; set; }
