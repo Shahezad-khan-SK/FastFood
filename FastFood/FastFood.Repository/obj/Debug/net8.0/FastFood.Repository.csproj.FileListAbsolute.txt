@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.deps.json
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.dll
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.pdb
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.dll
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.pdb
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.sourcelink.json
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.46B052DB.Up2Date
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.dll
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\refint\FastFood.Repository.dll
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.pdb
+C:\Users\user\OneDrive\Desktop\FastFood\FastFood\FastFood.Repository\obj\Debug\net8.0\ref\FastFood.Repository.dll

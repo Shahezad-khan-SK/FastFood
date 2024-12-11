@@ -1,3 +1,6 @@
+using Microsoft.Extensions.Options;
+using FastFood.Repository;
+using Microsoft.EntityFrameworkCore;
 namespace FastFood
 {
     public class Program
@@ -8,7 +11,7 @@ namespace FastFood
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<ApplicationDbContext>(Options => Options.UseSqlServer(builder.Configuration.GetConnectionString("ApplicationDbContextConnection")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

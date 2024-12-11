@@ -24,6 +24,8 @@ namespace FastFood.Models
         public string OrderStatus { get; set; }
         public string PaymentStatus { get; set; }
         public string Name { get; set; }
+        public string Phone { get; set; }
+
 
     }
 }

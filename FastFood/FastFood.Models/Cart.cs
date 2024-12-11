@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FastFood.Models
 {
-    internal class Cart
+    public class Cart
     {
         public int Id { get; set; }
         public int ItemId { get; set; }

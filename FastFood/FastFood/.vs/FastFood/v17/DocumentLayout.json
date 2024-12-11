@@ -1,11 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F6365534-95DF-4CA7-8B43-A3358B4AF94E}|..\\FastFood.Models\\FastFood.Models.csproj|c:\\users\\user\\onedrive\\desktop\\fastfood\\fastfood\\fastfood.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -13,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderHeader.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood.Models\\OrderHeader.cs",
-              "RelativeDocumentMoniker": "..\\FastFood.Models\\OrderHeader.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood.Models\\OrderHeader.cs",
-              "RelativeToolTip": "..\\FastFood.Models\\OrderHeader.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T04:51:53Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
