@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4268DA38-A9EA-4A8C-9543-572F6F0B8592}|FastFood.csproj|c:\\users\\user\\onedrive\\desktop\\fastfood\\fastfood\\fastfood\\fastfood.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4268DA38-A9EA-4A8C-9543-572F6F0B8592}|FastFood.csproj|solutionrelative:fastfood.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastFood",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.csproj",
+              "RelativeDocumentMoniker": "FastFood.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\FastFood\\FastFood\\FastFood\\FastFood.csproj",
+              "RelativeToolTip": "FastFood.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T13:24:28.701Z",
+              "EditorCaption": ""
             }
           ]
         }
